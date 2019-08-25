@@ -39,6 +39,10 @@
             @"58", @"alt",
             @"56", @"shift",
             @"63", @"fn",
+            @"126", @"arrow-up",
+            @"125", @"arrow-down",
+            @"123", @"arrow-left",
+            @"124", @"arrow-right",
             nil];
 }
 
